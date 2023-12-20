@@ -13,7 +13,12 @@ Una aplicación web sencilla para explorar información sobre Pokémon. Consume 
 
 | Home | Detalles | Filtro |
 |------------|------------|------------|
-| ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 13 47](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/888c2321-29d5-4b29-a4cb-1c3915f134cf) | ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 14 01](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/41e56f63-e048-42ea-91a3-71f3c08b4ebe) | ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 14 09](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/bc811c80-1f7d-4477-96e3-83bcc10ad317) |
+| ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 13 47](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/888c2321-29d5-4b29-a4cb-1c3915f134cf) | ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 14 01](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/41e56f63-e048-42ea-91a3-71f3c08b4ebe) | ![Simulator Screen Shot - iPhone 14 - 2023-12-19 at 22 14 09](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/bc811c80-1f7d-4477-96e3-83bcc10ad317) 
+
+|  GIF |
+|------------|
+| ![ezgif com-video-to-gif-converted](https://github.com/rossimicaela2/challenger_pokemon_2023/assets/32178323/a73ee5b1-92f6-40d1-a2db-a14587c3c2cb) |
+
 
 
 ## Requisitos
